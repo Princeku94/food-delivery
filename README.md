@@ -1,4 +1,9 @@
 # Food Delivery App
+<img width="1080" height="2160" alt="Screenshot_20250927_211625" src="https://github.com/user-attachments/assets/3d620162-f7f6-4645-97bf-c79d5f712248" /><img width="1080" height="2160" alt="Screenshot_20250927_211814" src="https://github.com/user-attachments/assets/3f1b0bc7-faac-4c94-85ec-ba9047c44a79" />
+<img width="1080" height="2160" alt="Screenshot_20250927_211748" src="https://github.com/user-attachments/assets/89e8e734-3492-4f56-a52a-0001eee039c3" />
+<img width="1080" height="2160" alt="Screenshot_20250927_211736" src="https://github.com/user-attachments/assets/f95ad559-6a2b-4a16-9971-df84d2901838" />
+<img width="1080" height="2160" alt="Screenshot_20250927_211652" src="https://github.com/user-attachments/assets/f548b561-e94c-4408-9c81-5624b999dbf8" />
+
 
 A Flutter-based food delivery application with a complete ordering workflow, built using BLoC architecture and following SOLID principles.
 
