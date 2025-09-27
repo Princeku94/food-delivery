@@ -4,10 +4,22 @@ Screenshots
 <table>
   <tr>
     <td align="center">
+      <img src="https://github.com/user-attachments/assets/89e8e734-3492-4f56-a52a-0001eee039c3" width="250" alt="Home Screen"/>
+      <br/>
+      <sub><b>Home Screen</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/3f1b0bc7-faac-4c94-85ec-ba9047c44a79" width="250" alt="Restaurant Details Screen"/>
+      <br/>
+      <sub><b>Restaurant Details Screen</b></sub>
+    </td>
+    <td align="center">
       <img src="https://github.com/user-attachments/assets/3d620162-f7f6-4645-97bf-c79d5f712248" width="250" alt="Cart Screen"/>
       <br/>
       <sub><b>Cart Screen</b></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/f548b561-e94c-4408-9c81-5624b999dbf8" width="250" alt="Checkout Screen"/>
       <br/>
@@ -17,18 +29,6 @@ Screenshots
       <img src="https://github.com/user-attachments/assets/f95ad559-6a2b-4a16-9971-df84d2901838" width="250" alt="Track Order Screen"/>
       <br/>
       <sub><b>Track Order Screen</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/89e8e734-3492-4f56-a52a-0001eee039c3" width="250" alt="Home Screen"/>
-      <br/>
-      <sub><b>Home Screen</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/3f1b0bc7-faac-4c94-85ec-ba9047c44a79" width="250" alt="Restaurant Details Screen"/>
-      <br/>
-      <sub><b>Restaurant Details Screen</b></sub>
     </td>
     <td align="center">
       <!-- Add more screenshots here if needed -->
